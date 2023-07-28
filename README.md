@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=808000&height=120&section=header&text=Jackson%20Greig&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=120&section=header&text=Jackson%20Greig&fontSize=90&fontColor=FFFFFF" />
 
 <h2> 👨🏻‍💻 &nbsp;About Me and My Interests </h2>
 <p align="left">
