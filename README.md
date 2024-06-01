@@ -5,7 +5,7 @@
 
 ```yaml
 name: Jackson Greig
-located_in: Auckland, New Zealand
+located_in: Sydney, Australia
 education:
   [
     "Bachelor's in Computer and Information Sciences",
