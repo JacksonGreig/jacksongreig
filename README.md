@@ -22,8 +22,8 @@ technical_background:
 
   ]
   
-currently_learning: [""]
-hobbies: ["Gaming", ""]
+currently_learning: ["Working to become AWS Certified Cloud Solutions Architect Exam and SnowPro Core"]
+hobbies: ["Gaming","Tennis", "Golf"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
